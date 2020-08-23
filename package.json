@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "App for class",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite" : "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdamianjohnson/nodejdsbootstrapcoourse.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/lucasdamianjohnson/nodejdsbootstrapcoourse/issues"
+  },
+  "homepage": "https://github.com/lucasdamianjohnson/nodejdsbootstrapcoourse#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
